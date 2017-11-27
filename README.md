@@ -3,6 +3,7 @@
 > A Vue.js project
 
 ## Build Setup
+使用vue测试 
 
 ``` bash
 # install dependencies
