@@ -3,7 +3,7 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 import 'lib-flexible'
-import vueg from 'vueg'
+import vueg from 'vueg' // 页面过渡效果
 
 import App from './App'
 import router from './router'
